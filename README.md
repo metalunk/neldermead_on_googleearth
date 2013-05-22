@@ -7,7 +7,7 @@ As this is local optimization, I want you to execute repeatly. (Reload your brow
 [How to use]<br>
 1. Download 2 files. (neldermead_googleearth.html and neldermead_googleearth.js)<br>
 2. Open neldermead_googleearth.html on your browser. It may not work with Chrome. Please use Firefox. :)<br>
-3. Reload your browser. Sorry to no buttons. <br>
+3. Reload your browser. Sorry for no buttons. <br>
 <br>
   This application use Google Earth api.<br>
   So, You need to install Google Earth add-on in your browser.<br>
