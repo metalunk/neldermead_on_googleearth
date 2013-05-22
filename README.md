@@ -1,8 +1,8 @@
-neldermead_on_googleearth<br>
-=========================<br>
+neldermead_on_googleearth
+=========================
 <br>
 Using Nelder-Mead algolithm, this app search higher point of Earth with rolling triangle. (local optimization)<br>
-As this is local optimization, I want you to execute repeatly. (Reload your browser.)<br>
+As this is local optimization, I want you to execute repeatly. (Reload your browser)<br>
 <br>
 [How to use]<br>
 1. Download 2 files. (neldermead_googleearth.html and neldermead_googleearth.js)<br>
