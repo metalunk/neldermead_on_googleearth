@@ -14,4 +14,4 @@ As this is local optimization, I want you to execute repeatly. (Reload your brow
   If you don't have Google Earth add-on yet, install page will show off when you open this app.<br>
 <br>
 <br>
-Enjoy.<br>
+Enjoy :)<br>
