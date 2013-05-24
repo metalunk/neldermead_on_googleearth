@@ -15,8 +15,8 @@ If you want to know result of this research, Mail me.(chiba.r221 at gmail.com)<b
 2. Open neldermead_googleearth.html on your browser. It may not work with Chrome. Please use Firefox. :)<br>
 3. Reload your browser. Sorry for no buttons. <br>
 <br>
-  This application use Google Earth api.<br>
-  So, You need to install Google Earth add-on in your browser.<br>
+  This application uses Google Earth api.<br>
+  So, You need to install Google Earth add-on to your browser.<br>
   If you don't have Google Earth add-on yet, install page will show off when you open this app.<br>
 <br>
 <br>
